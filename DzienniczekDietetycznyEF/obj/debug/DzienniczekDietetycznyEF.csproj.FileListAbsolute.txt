@@ -1,0 +1,306 @@
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe.config
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.pdb
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\bin\Debug\EntityFramework.dll
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\bin\Debug\EntityFramework.xml
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csprojResolveAssemblyReference.cache
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\MainWindow.g.cs
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\App.g.cs
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_Content.g.cs
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.cache
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.lref
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\MainWindow.baml
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.g.resources
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.Properties.Resources.resources
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csproj.GenerateResource.Cache
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.exe
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.pdb
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\Window2.g.cs
+D:\Projekty\C#\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\Window2.baml
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe.config
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csprojResolveAssemblyReference.cache
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\App.g.cs
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.cache
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.lref
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\bin\Debug\EntityFramework.dll
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\bin\Debug\EntityFramework.xml
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.g.resources
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.Properties.Resources.resources
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csproj.GenerateResource.Cache
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.g.cs
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.baml
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.baml
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.g.cs
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.baml
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.g.cs
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.baml
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.g.cs
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.baml
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.g.cs
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.g.cs
+C:\Users\Spasm\Desktop\Studia\dodawanie okna do pzpp\DzienniczekDietetycznyEF\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.baml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe.config
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\EntityFramework.xml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csprojResolveAssemblyReference.cache
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.baml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.baml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.baml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.baml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.g.cs
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.g.cs
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.g.cs
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.g.cs
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.g.cs
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.g.cs
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\App.g.cs
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.cache
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.lref
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.baml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.baml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.g.resources
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.Properties.Resources.resources
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csproj.GenerateResource.Cache
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe.config
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\EntityFramework.xml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csprojResolveAssemblyReference.cache
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.baml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.baml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.baml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.baml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.g.cs
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.g.cs
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.g.cs
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.g.cs
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.g.cs
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.g.cs
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\App.g.cs
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.cache
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.lref
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.baml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.baml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.g.resources
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.Properties.Resources.resources
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csproj.GenerateResource.Cache
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\StataisticWindow.baml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\StataisticWindow.g.cs
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.dll
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.dll
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.pdb
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.xml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe.config
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.dll
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.dll
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.pdb
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.xml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.baml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.baml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.baml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.baml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\StataisticWindow.baml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.g.cs
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.g.cs
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.g.cs
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.g.cs
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.g.cs
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.g.cs
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\StataisticWindow.g.cs
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\App.g.cs
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.cache
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.lref
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.baml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.baml
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.g.resources
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.Properties.Resources.resources
+C:\Users\Owner\Desktop\Pzpp\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csproj.GenerateResource.Cache
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe.config
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\bin\Debug\EntityFramework.xml
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.pdb
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.xml
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csprojResolveAssemblyReference.cache
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.baml
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.baml
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.baml
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.baml
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\StataisticWindow.baml
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.g.cs
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.g.cs
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.g.cs
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.g.cs
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.g.cs
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\StataisticWindow.g.cs
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\App.g.cs
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.cache
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.lref
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.baml
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.baml
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.g.resources
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.Properties.Resources.resources
+C:\Users\Dom\Desktop\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\New folder (3)\bin\Debug\DzienniczekDietetycznyEF.exe.config
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Owner\Desktop\New folder (3)\bin\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Owner\Desktop\New folder (3)\bin\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Owner\Desktop\New folder (3)\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Desktop\New folder (3)\bin\Debug\OxyPlot.pdb
+C:\Users\Owner\Desktop\New folder (3)\bin\Debug\OxyPlot.xml
+C:\Users\Owner\Desktop\New folder (3)\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Owner\Desktop\New folder (3)\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Owner\Desktop\New folder (3)\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\Owner\Desktop\New folder (3)\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\DzienniczekDietetycznyEF.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\AuthorsWindow.baml
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\LoginWindow.baml
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\MenuWindow.baml
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\RegisterWindow.baml
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\StataisticWindow.baml
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\AuthorsWindow.g.cs
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\LoginWindow.g.cs
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\ConsumeWindow.g.cs
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\FavoriteWindow.g.cs
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\MenuWindow.g.cs
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\RegisterWindow.g.cs
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\StataisticWindow.g.cs
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\App.g.cs
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.cache
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.lref
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\ConsumeWindow.baml
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\FavoriteWindow.baml
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\DzienniczekDietetycznyEF.g.resources
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\DzienniczekDietetycznyEF.Properties.Resources.resources
+C:\Users\Owner\Desktop\New folder (3)\obj\Debug\DzienniczekDietetycznyEF.csproj.GenerateResource.Cache
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe.config
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.dll
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.dll
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\EntityFramework.xml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.pdb
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.xml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csprojResolveAssemblyReference.cache
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.baml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.baml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.baml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.baml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\StataisticWindow.baml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.g.cs
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.g.cs
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.g.cs
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.g.cs
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.g.cs
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.g.cs
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\StataisticWindow.g.cs
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\App.g.cs
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.cache
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.lref
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.baml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.baml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.g.resources
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.Properties.Resources.resources
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csproj.GenerateResource.Cache
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\App.baml
+C:\Users\Dom\Desktop\Nowy folder\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MainResources.baml
+C:\Users\Właściciel\Desktop\pzpp\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe.config
+C:\Users\Właściciel\Desktop\pzpp\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Właściciel\Desktop\pzpp\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Właściciel\Desktop\pzpp\laczenie\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe.config
+C:\Users\Właściciel\Desktop\pzpp\laczenie\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Właściciel\Desktop\pzpp\laczenie\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\StataisticWindow.baml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\StataisticWindow.g.cs
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.dll
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.dll
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.pdb
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.xml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.xml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\App.baml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MainResources.baml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe.config
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.pdb
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.dll
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.dll
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\EntityFramework.xml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.pdb
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.xml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.pdb
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\OxyPlot.Xps.xml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csprojResolveAssemblyReference.cache
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.baml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.baml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.baml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.baml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\StatisticWindow.baml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\AuthorsWindow.g.cs
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\LoginWindow.g.cs
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.g.cs
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.g.cs
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MenuWindow.g.cs
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\RegisterWindow.g.cs
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\StatisticWindow.g.cs
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\App.g.cs
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.cache
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF_MarkupCompile.lref
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\App.baml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\ConsumeWindow.baml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\FavoriteWindow.baml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\MainResources.baml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.g.resources
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.Properties.Resources.resources
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.csproj.GenerateResource.Cache
+C:\Users\Dom\Desktop\PzppProjekt\DzienniczekDietetycznyEF\bin\Debug\DzienniczekDietetycznyEF.exe.config
+C:\Users\Dom\Desktop\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.exe
+C:\Users\Dom\Desktop\PzppProjekt\DzienniczekDietetycznyEF\obj\Debug\DzienniczekDietetycznyEF.pdb

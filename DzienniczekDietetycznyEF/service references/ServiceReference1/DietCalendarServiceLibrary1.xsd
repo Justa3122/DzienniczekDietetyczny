@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/DietCalendarServiceLibrary" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/DietCalendarServiceLibrary" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="WcfLogin">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Name" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="WcfLogin" nillable="true" type="tns:WcfLogin" />
+  <xs:complexType name="WcfFavorite">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="FavoriteCompontents" nillable="true" type="tns:ArrayOfWcfFavoriteComponent" />
+      <xs:element minOccurs="0" name="FavoriteName" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="WcfFavorite" nillable="true" type="tns:WcfFavorite" />
+  <xs:complexType name="ArrayOfWcfFavoriteComponent">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="WcfFavoriteComponent" nillable="true" type="tns:WcfFavoriteComponent" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfWcfFavoriteComponent" nillable="true" type="tns:ArrayOfWcfFavoriteComponent" />
+  <xs:complexType name="WcfFavoriteComponent">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Meal" nillable="true" type="tns:WcfMeal" />
+      <xs:element minOccurs="0" name="Quantity" type="xs:float" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="WcfFavoriteComponent" nillable="true" type="tns:WcfFavoriteComponent" />
+  <xs:complexType name="WcfMeal">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Calories" type="xs:float" />
+      <xs:element minOccurs="0" name="CarboHydrates" type="xs:float" />
+      <xs:element minOccurs="0" name="Fat" type="xs:float" />
+      <xs:element minOccurs="0" name="MealName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Protein" type="xs:float" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="WcfMeal" nillable="true" type="tns:WcfMeal" />
+  <xs:complexType name="WcfConsumed">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="ConsumeTime" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="Favorite" nillable="true" type="tns:WcfFavorite" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="WcfConsumed" nillable="true" type="tns:WcfConsumed" />
+  <xs:complexType name="ArrayOfWcfFavorite">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="WcfFavorite" nillable="true" type="tns:WcfFavorite" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfWcfFavorite" nillable="true" type="tns:ArrayOfWcfFavorite" />
+  <xs:complexType name="ArrayOfWcfConsumed">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="WcfConsumed" nillable="true" type="tns:WcfConsumed" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfWcfConsumed" nillable="true" type="tns:ArrayOfWcfConsumed" />
+  <xs:complexType name="ArrayOfWcfMeal">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="WcfMeal" nillable="true" type="tns:WcfMeal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfWcfMeal" nillable="true" type="tns:ArrayOfWcfMeal" />
+</xs:schema>

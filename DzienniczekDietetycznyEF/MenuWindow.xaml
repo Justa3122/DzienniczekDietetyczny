@@ -1,0 +1,19 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="DzienniczekDietetycznyEF.MenuWindow"
+        Title="MenuWindow" Height="505.714" Width="439.592" WindowStyle="None" AllowsTransparency="True" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush/>
+    </Window.Background>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/bg3.png"/>
+        </Grid.Background>
+        <Button Content="Dodaj posiłek" Style="{StaticResource ResourceKey=button1background}" HorizontalAlignment="Left" Margin="55,119,0,0" VerticalAlignment="Top" Background="{x:Null}" BorderBrush="{x:Null}"  Click="DodajPosilek_Click"/>
+        <Button Content="Statystyki" Style="{StaticResource ResourceKey=button1background}" BorderBrush="{x:Null}" HorizontalAlignment="Left" Margin="55,222,0,0" VerticalAlignment="Top" Width="339" Background="{x:Null}" FontFamily="Rage Italic" FontSize="48" Height="85" Click="Statystki_Click">
+        </Button>
+        <Button Content="Autorzy" Style="{StaticResource ResourceKey=button1background}" BorderBrush="{x:Null}" HorizontalAlignment="Left" Margin="55,327,0,0" VerticalAlignment="Top" Width="339" Background="{x:Null}" FontFamily="Rage Italic" FontSize="48" Height="79" Click="Autorzy_Click"/>
+        <Button Content="Wyjście" Style="{StaticResource ResourceKey=button1background}" BorderBrush="{x:Null}" HorizontalAlignment="Left" Margin="55,417,0,0" VerticalAlignment="Top" Width="339" Background="{x:Null}" FontFamily="Rage Italic" FontSize="48" Height="79" Click="Wyjscie_Click"/>
+    </Grid>
+</Window>

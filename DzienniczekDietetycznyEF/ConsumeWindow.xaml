@@ -1,0 +1,76 @@
+﻿<Window x:Class="DzienniczekDietetycznyEF.ConsumeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DzienniczekDietetycznyEF"
+        mc:Ignorable="d"
+        Title="Dzienniczek Dietetyczny" Height="745.16" Width="607.209" WindowStyle="None" Foreground="Transparent" AllowsTransparency="True" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="Transparent">
+
+    <Grid Margin="0,10,0,0">
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/plas.png"/>
+        </Grid.Background>
+        <Label x:Name="label1" Content="Twoje zestawy:" HorizontalAlignment="Left" Height="100" Margin="91,60,0,0" VerticalAlignment="Top" Width="373" RenderTransformOrigin="0.609,3.382" Foreground="Black" FontFamily="Rage Italic" FontWeight="Bold" FontSize="72">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-7.121"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+            <Label.Effect>
+                <DropShadowEffect Color="Yellow" BlurRadius="5" ShadowDepth="3" />
+            </Label.Effect>
+        </Label>
+        <Button x:Name="button" Content="Dodaj" Style="{StaticResource ResourceKey=button2background}" HorizontalAlignment="Left" Height="56" Margin="209,630,0,0" VerticalAlignment="Top" Width="152" Click="button_Click" FontSize="45" RenderTransformOrigin="0.304,0.318" BorderBrush="{x:Null}" Background="Transparent" FontFamily="Rage Italic"/>
+        <ListBox x:Name="listBox1" HorizontalAlignment="Left" FontFamily="Rage Italic" FontSize="36" Height="60" Margin="177,167,0,0" VerticalAlignment="Top" Width="332" Background="Transparent" BorderThickness="0"/>
+        <ListBox x:Name="listBox2" HorizontalAlignment="Left" FontFamily="Rage Italic" FontSize="36" Height="60" Margin="184,307,0,0" VerticalAlignment="Top" Width="319" Background="Transparent" RenderTransformOrigin="0.5,0.5" BorderThickness="0">
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-2.956"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
+        </ListBox>
+        <ListBox x:Name="listBox3" HorizontalAlignment="Left" FontFamily="Rage Italic" FontSize="36" Height="60" Margin="142,426,0,0" VerticalAlignment="Top" Width="382" Background="Transparent" RenderTransformOrigin="0.5,0.5" BorderThickness="0">
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="1.719"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
+        </ListBox>
+        <ListBox x:Name="listBox4" HorizontalAlignment="Left" FontFamily="Rage Italic" FontSize="36" Height="56" Margin="204,550,0,0" VerticalAlignment="Top" Width="332" Background="Transparent" RenderTransformOrigin="0.5,0.5" BorderThickness="0">
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.96"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
+        </ListBox>
+        <Button x:Name="button_zestaw_1" Content="Zjedzone " Style="{StaticResource ResourceKey=button2background}" HorizontalAlignment="Left" Height="60" Margin="62,167,0,0" VerticalAlignment="Top" Width="115" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold" FontSize="36" Click="button_zestaw_1_Click" FontFamily="Rage Italic"/>
+        <Button x:Name="button_zestaw_2" Content="Zjedzone " Style="{StaticResource ResourceKey=button2background}" HorizontalAlignment="Left" Height="60" Margin="62,309,0,0" VerticalAlignment="Top" Width="115" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold" FontSize="36" Click="button_zestaw_2_Click" FontFamily="Rage Italic"/>
+        <Button x:Name="button_zestaw_3" Content="Zjedzone " Style="{StaticResource ResourceKey=button2background}" HorizontalAlignment="Left" Height="60" Margin="32,413,0,0" VerticalAlignment="Top" Width="115" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold" FontSize="36" Click="button_zestaw_3_Click" FontFamily="Rage Italic"/>
+        <Button x:Name="button_zestaw_4" Content="Zjedzone " Style="{StaticResource ResourceKey=button2background}" HorizontalAlignment="Left" Height="60" Margin="79,549,0,0" VerticalAlignment="Top" Width="115" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black" FontWeight="Bold" FontSize="36" Click="button_zestaw_4_Click" FontFamily="Rage Italic"/>
+        <Button x:Name="button_up" Style="{StaticResource ResourceKey=button2background}" HorizontalAlignment="Left" Height="53" Margin="518,613,0,0" VerticalAlignment="Top" Width="52" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="button_up_Click">
+            <Image Source="pack://application:,,,/Images/3.png" x:Name="img1" Height="43" Width="42"/>
+        </Button>
+        <Button x:Name="button_down" Style="{StaticResource ResourceKey=button2background}" HorizontalAlignment="Left" Height="53" Margin="466,613,0,0" VerticalAlignment="Top" Width="52" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="White" Click="button_down_Click">
+            <Image Source="pack://application:,,,/Images/2.png" x:Name="img2" RenderTransformOrigin="0.724,5.585" Height="43" Width="42" ScrollViewer.VerticalScrollBarVisibility="Disabled">
+
+            </Image>
+        </Button>
+        <Button x:Name="BackButton" Content="Powrot" Style="{StaticResource ResourceKey=button2background}" HorizontalAlignment="Left" Height="45" Margin="466,98,0,0" VerticalAlignment="Top" Width="104" Click="Back_Click" FontSize="36" RenderTransformOrigin="0.378,0.648" BorderBrush="{x:Null}" Background="Transparent" FontFamily="Rage Italic"/>
+        <Button x:Name="DownloadButton" Content="Pobierz arkusz" Style="{StaticResource ResourceKey=button2background}" HorizontalAlignment="Left" Height="44" Margin="62,671,0,0" VerticalAlignment="Top" Width="182" Click="DownloadClick" FontSize="27" RenderTransformOrigin="0.378,0.648" BorderBrush="{x:Null}" Background="Transparent" FontFamily="Rage Italic"/>
+        <Button x:Name="ImportButton" Content="Zaimportuj" Style="{StaticResource ResourceKey=button2background}" HorizontalAlignment="Left" Height="44" Margin="388,671,0,0" VerticalAlignment="Top" Width="182" Click="ImportClick" FontSize="27" RenderTransformOrigin="0.378,0.648" BorderBrush="{x:Null}" Background="Transparent" FontFamily="Rage Italic"/>
+
+    </Grid>
+</Window>

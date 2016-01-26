@@ -1,0 +1,49 @@
+﻿<Window x:Class="DzienniczekDietetycznyEF.AuthorsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AuthorsWindow" Height="269" Width="340" Visibility="Visible" WindowStyle="None" AllowsTransparency="True" Background="{x:Null}" Foreground="Transparent" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="0,30,10,0">
+        <Grid.OpacityMask>
+            <ImageBrush ImageSource="Images/pom1.png"/>
+        </Grid.OpacityMask>
+
+        <Label Content="Justyna Jasek" Height="42" Margin="58,10,0,0" Width="272" VerticalAlignment="Top" HorizontalAlignment="Left" FontFamily="Pristina" FontSize="24"/>
+        <Label Content="Krzysztof Golasik" HorizontalAlignment="Left" Height="42" Margin="88,48,-20,0" VerticalAlignment="Top" Width="272" FontFamily="Pristina" FontSize="24" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-6.537"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Content="Szymon Łodziana" HorizontalAlignment="Left" Height="42" Margin="42,97,0,0" VerticalAlignment="Top" Width="272" FontFamily="Pristina" FontSize="24"/>
+        <Label Content="Miłosz Siemek" HorizontalAlignment="Left" Height="42" Margin="112,133,-44,0" VerticalAlignment="Top" Width="272" FontFamily="Pristina" FontSize="24" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-4.492"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button Content="Powrot"  Style="{StaticResource ResourceKey=button1background}" HorizontalAlignment="Left" Margin="121,193,0,0" VerticalAlignment="Top" Width="81" FontFamily="Pristina" Background="{x:Null}" FontSize="24" RenderTransformOrigin="0.5,0.5" Click="Button_Click" Height="31">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="3.557"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/pom1.png"/>
+        </Grid.Background>
+
+
+    </Grid>
+</Window>

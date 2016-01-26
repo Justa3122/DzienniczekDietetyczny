@@ -1,0 +1,64 @@
+C:\Users\Właściciel\Documents\visual studio 2013\Projects\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Właściciel\Documents\visual studio 2013\Projects\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.dll
+C:\Users\Właściciel\Documents\visual studio 2013\Projects\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.pdb
+C:\Users\Właściciel\Documents\visual studio 2013\Projects\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.dll
+C:\Users\Właściciel\Documents\visual studio 2013\Projects\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Właściciel\Documents\visual studio 2013\Projects\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.xml
+C:\Users\Właściciel\Documents\visual studio 2013\Projects\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Właściciel\Documents\visual studio 2013\Projects\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.dll
+C:\Users\Właściciel\Documents\visual studio 2013\Projects\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.pdb
+C:\Users\de$po\Desktop\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.dll
+C:\Users\de$po\Desktop\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.pdb
+C:\Users\de$po\Desktop\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.dll
+C:\Users\de$po\Desktop\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\de$po\Desktop\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.xml
+C:\Users\de$po\Desktop\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\de$po\Desktop\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\de$po\Desktop\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.dll
+C:\Users\de$po\Desktop\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.pdb
+C:\Users\Spasm\Desktop\pzppp\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.dll.config
+C:\Users\Spasm\Desktop\pzppp\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.dll
+C:\Users\Spasm\Desktop\pzppp\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.pdb
+C:\Users\Spasm\Desktop\pzppp\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.dll
+C:\Users\Spasm\Desktop\pzppp\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Spasm\Desktop\pzppp\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.xml
+C:\Users\Spasm\Desktop\pzppp\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Spasm\Desktop\pzppp\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Spasm\Desktop\pzppp\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.dll
+C:\Users\Spasm\Desktop\pzppp\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.pdb
+C:\Users\Spasm\Desktop\Studia\pzppp\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.dll
+C:\Users\Spasm\Desktop\Studia\pzppp\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.pdb
+C:\Users\Spasm\Desktop\Studia\pzppp\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.dll
+C:\Users\Spasm\Desktop\Studia\pzppp\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Spasm\Desktop\Studia\pzppp\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.xml
+C:\Users\Spasm\Desktop\Studia\pzppp\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Spasm\Desktop\Studia\pzppp\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Spasm\Desktop\Studia\pzppp\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.dll
+C:\Users\Spasm\Desktop\Studia\pzppp\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.pdb
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.dll
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.pdb
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.dll
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.xml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.dll
+C:\Users\Spasm\Desktop\PZPP projekt\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.pdb
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.dll
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.pdb
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.dll
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.xml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.dll
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.pdb
+C:\Users\de$po\Desktop\PZPPPPPPP\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.dll
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DietCalendarService\bin\Debug\DietCalendarService.pdb
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.dll
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.xml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DietCalendarService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.dll
+C:\Users\de$po\Desktop\PZPP SZYMON TUTEJ!!\PzppProjekt\DietCalendarService\obj\Debug\DietCalendarService.pdb
