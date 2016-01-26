@@ -17,6 +17,9 @@ using System.IO;
 
 namespace DzienniczekDietetycznyEF
 {
+    /// <summary>
+    ///     Wyswietla zestawy uzytkownika i pozwala na wybranie zjedzonego zestawu
+    /// </summary>
     public partial class ConsumeWindow : Window
     {
         public static DietCalendarService2Client cl2 = new DietCalendarService2Client();
