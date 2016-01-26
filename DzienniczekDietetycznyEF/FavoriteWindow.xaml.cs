@@ -9,6 +9,9 @@ using System.Threading;
 
 namespace DzienniczekDietetycznyEF
 {
+/// <summary>
+///     Tworzenie ze skladnikow wlasnego zestawu
+/// </summary>
     public partial class FavoriteWindow : Window
     {
         public DietCalendarService2Client cl2 = new DietCalendarService2Client();
